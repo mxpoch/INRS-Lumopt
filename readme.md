@@ -1,4 +1,4 @@
-# Inverse Design of Terahertz RF Components
+# Inverse Design of Terahertz Components
 
 ### Introduction
 This is a collection of inverse-design programs I ran during my internship at the [Nonlinear Photonics Group](https://www.nonlinearphotonics.com/) at INRS-EMT in the Summer of 2024. 
