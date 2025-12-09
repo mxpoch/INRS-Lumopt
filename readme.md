@@ -1,7 +1,7 @@
 # Inverse Design of Terahertz Components
 
 ### Introduction
-This is a collection of inverse-design programs I ran during my internship at the [Nonlinear Photonics Group](https://www.nonlinearphotonics.com/) at INRS-EMT in the Summer of 2024. 
+This is a collection of inverse-design programs I developed during my internship at the [Nonlinear Photonics Group](https://www.nonlinearphotonics.com/) at INRS-EMT in the Summer of 2024. 
 
 The goal of inverse design is for a user to define the frequency response of a physical device, and for a computer to intelligently explore the geometry space to find an optimal design. 
 
